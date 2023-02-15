@@ -1,4 +1,4 @@
-package com.dmdev.lesson6;
+package com.dvdev.lesson6;
 
 public class WhileExample {
 

@@ -1,4 +1,4 @@
-package com.dmdev.lesson4;
+package com.dvdev.lesson4;
 
 public class SwitchExample {
 

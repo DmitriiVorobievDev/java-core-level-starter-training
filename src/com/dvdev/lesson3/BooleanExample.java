@@ -1,4 +1,4 @@
-package com.dmdev.lesson3;
+package com.dvdev.lesson3;
 
 public class BooleanExample {
 

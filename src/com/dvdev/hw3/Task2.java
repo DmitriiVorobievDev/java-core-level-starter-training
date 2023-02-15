@@ -1,4 +1,4 @@
-package com.dmdev.hw3;
+package com.dvdev.hw3;
 
 import java.util.Scanner;
 
