@@ -1,2 +1,2 @@
-# java-core-level-starter-training
-java core level starter training
+# java-core-starter-training
+java core starter training
